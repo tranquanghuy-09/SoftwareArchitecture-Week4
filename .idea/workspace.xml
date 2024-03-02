@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47c2f394-8aba-4597-badc-24d569970b09" name="Changes" comment="" />
+    <list default="true" id="8873d699-4085-4449-a14b-f68e159d6f6d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,16 +15,42 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
-  <component name="ProjectId" id="2d59HkEgVXuPdMs0NHBitG3kW4n" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2b88Vl0LcPEeka772wGIkOEOPoG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,28 +64,37 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Volumes/SSD_1TB/Hoc_Ki2_Nam4/1_SortwareArchitecture/SoftwareArchitecture-Week4",
+    "last_opened_file_path": "/Volumes/SSD_1TB/Hoc_Ki2_Nam4/1_SortwareArchitecture/SoftwareArchitecture-Week4/CacheWithRedisAndMySQL-Springboot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.4361335",
+    "spring.configuration.checksum": "27e6dd15aed5cb5984719e40234f5205",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="SoftwareArchitecture-Week4" />
+      <module name="CacheWithRedisAndMySQL-Springboot" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="SoftwareArchitecture-Week4" />
+      <module name="CacheWithRedisAndMySQL-Springboot" />
       <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CacheWithRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="SbRedisCacheMySQLApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="CacheWithRedis.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.cachewithredis.CacheWithRedisApplication" />
+      <module name="SB-Redis-Cache-MySQL.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="vn.edu.iuh.fit.sbrediscachemysql.SbRedisCacheMySQLApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,12 +103,22 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="47c2f394-8aba-4597-badc-24d569970b09" name="Changes" comment="" />
-      <created>1709286986466</created>
+      <changelist id="8873d699-4085-4449-a14b-f68e159d6f6d" name="Changes" comment="" />
+      <created>1705585372989</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709286986466</updated>
-      <workItem from="1709286987560" duration="68000" />
+      <updated>1705585372989</updated>
+      <workItem from="1705585374544" duration="7484000" />
+      <workItem from="1705651831751" duration="3893000" />
+      <workItem from="1705816640802" duration="264000" />
+      <workItem from="1706119558957" duration="5000" />
+      <workItem from="1706354039908" duration="2452000" />
+      <workItem from="1709273940900" duration="21000" />
+      <workItem from="1709282082074" duration="1493000" />
+      <workItem from="1709284003132" duration="3126000" />
+      <workItem from="1709287519727" duration="3326000" />
+      <workItem from="1709395047787" duration="120000" />
+      <workItem from="1709395174126" duration="1631000" />
     </task>
     <servers />
   </component>
